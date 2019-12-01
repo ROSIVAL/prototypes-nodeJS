@@ -1,0 +1,6 @@
+console.log(`File: `,__filename)
+console.log(`Dir: `,__dirname)
+console.log(`CWD: `,process.cwd())
+console.log(`Params: `,process.argv)
+console.log(`Platform: `,process.platform )
+console.log(`Env: `,process.env )

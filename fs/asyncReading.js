@@ -3,6 +3,7 @@ const fs = require('fs').promises
 read = async() =>{
     const data = await fs.readFile('file.txt', 'binary')
     return new Buffer.from(data)
+    
 }
 
 try{

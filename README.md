@@ -1,2 +1,2 @@
-# curse-node
-curse-nodeJS
+# Prototypes NodeJS
+Prototypes NodeJS

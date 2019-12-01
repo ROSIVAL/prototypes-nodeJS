@@ -1,2 +1,2 @@
 # curse-node
-curse-node
+curse-nodeJS
